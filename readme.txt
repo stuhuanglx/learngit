@@ -3,3 +3,4 @@ Git is free software distributed the GPL.
 This is test.
 this is three.
 THIS IS FOUR.
+Creating a new branch is quick.
